@@ -5,5 +5,5 @@ I am a penetration tester and security engineer with a passion for cybersecurity
 
 LinkedIn: https://www.linkedin.com/in/segev-eliezer/<br>
 YouTube: https://www.youtube.com/channel/UCSumP9z5Rzquqih-jpusTOQ<br> 
-<img src="https://simpleicons.org/icons/tryhackme.svg" style="display: inline" height="5%"> TryHackMe: https://tryhackme.com/p/Zezul<br>
+TryHackMe: https://tryhackme.com/p/Zezul<br>
 HackTheBox: https://app.hackthebox.com/profile/140887
