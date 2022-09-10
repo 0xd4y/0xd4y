@@ -1,10 +1,9 @@
 
 <p align=center><img src="https://0xd4y.com/images/0xd4y-logo-gray-medium-centered.png"></p>
 
-I am a penetration tester and security engineer with a passion for cybersecurity. In this GitHub I post some of my work including security notes, penetration testing tools, miscellaneous scripts, and data related to my YouTube videos. 
+I am a penetration tester and security engineer with a passion for cybersecurity. In this GitHub, I have a collection of some of my work including security notes, penetration testing tools, writeups, miscellaneous scripts, and data related to my YouTube videos. I have extensive experience in Python, and have created many scripts and penetration testing tools to automate or speed up common tasks. 
 
-
-
-LinkedIn: 
-💻 YouTube:  
-:yt:
+LinkedIn: https://www.linkedin.com/in/segev-eliezer/ 
+YouTube: https://www.youtube.com/channel/UCSumP9z5Rzquqih-jpusTOQ 
+TryHackMe: https://tryhackme.com/p/Zezul
+HackTheBox: https://app.hackthebox.com/profile/140887
