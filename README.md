@@ -7,12 +7,12 @@ I create YouTube videos and have my own website to develop the technical skills 
 
 👉 https://0xd4y.com 👈
 
+🤵 Penetration tester and security engineer<br>
 ♟️ Chess player with over 15 years of competitive experience (2100+ USCF)<br>
 🗣️ Language-learning hobbyist<br>
 🤝 Team player
 
 ## 0xd4y GitHub
-🤵 Penetration tester and security engineer<br>
 📓 Security notes<br>
 ⭐ Penetration testing tools<br>
 ✍️ Writeups<br>
