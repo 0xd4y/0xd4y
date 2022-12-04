@@ -2,7 +2,7 @@
 <p align=center><img src="https://0xd4y.com/images/0xd4y-logo-gray-small-centered.png"></p>
 
 ## About Me 
-Passionate cybersecurity professional who secures the world one system at a time.<br>
+Passionate cybersecurity professional who secures the world system by system.<br>
 I create YouTube videos and have my own website to develop the technical skills of current and upcoming cybersecurity professionals.
 
 👉 https://0xd4y.com 👈
