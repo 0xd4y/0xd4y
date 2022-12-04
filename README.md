@@ -7,7 +7,7 @@ I create YouTube videos and have my own website to develop the technical skills 
 
 ## 0xd4y GitHub
 🤵 Penetration tester and security engineer<br>
-⭐ Security notes<br>
+📓 Security notes<br>
 ⭐ Penetration testing tools<br>
 ✍️ Writeups<br>
 💻 Miscellaneous scripts<br>
