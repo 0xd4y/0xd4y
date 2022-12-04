@@ -5,7 +5,11 @@
 Passionate cybersecurity professional who secures the world one system at a time.<br>
 I create YouTube videos and have my own website to develop the technical skills of current and upcoming cybersecurity professionals.
 
-<center>=====> https://0xd4y.com <=====</center>
+👉 https://0xd4y.com 👈
+
+♟️ Chess player with over 15 years of competitive experience (2100+ USCF)<br>
+🗣️ Language-learning hobbyist<br>
+🧑‍🤝‍🧑 Team player
 
 ## 0xd4y GitHub
 🤵 Penetration tester and security engineer<br>
@@ -13,7 +17,7 @@ I create YouTube videos and have my own website to develop the technical skills 
 ⭐ Penetration testing tools<br>
 ✍️ Writeups<br>
 💻 Miscellaneous scripts<br>
-🐍 Python 
+🐍 Python (7+ years experience)
 
 ## Let's Connect!
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCSumP9z5Rzquqih-jpusTOQ?style=for-the-badge)](https://www.youtube.com/@0xd4y)<br>
