@@ -1,9 +1,20 @@
 
-<p align=center><img src="https://0xd4y.com/images/0xd4y-logo-gray-medium-centered.png"></p>
+<p align=center><img src="https://0xd4y.com/images/0xd4y-logo-gray-small-centered.png"></p>
 
-I am a penetration tester and security engineer with a passion for cybersecurity. In this GitHub, I have a collection of some of my work including security notes, penetration testing tools, writeups, miscellaneous scripts, and data related to my YouTube videos. I have extensive experience in Python, and have created many scripts and penetration testing tools to automate or speed up common tasks. 
+## About Me 
+Passionate cybersecurity professional who secures the world one system at a time. 
+I create YouTube videos and have my own website to develop the technical skills of current and upcoming cybersecurity professionals.
 
-LinkedIn: https://www.linkedin.com/in/segev-eliezer/<br>
-YouTube: https://www.youtube.com/@0xd4y<br> 
-TryHackMe: https://tryhackme.com/p/Zezul<br>
-HackTheBox: https://app.hackthebox.com/profile/140887
+## 0xd4y GitHub
+🤵 Penetration tester and security engineer 
+⭐ Security notes
+⭐ Penetration testing tools
+✍️ Writeups
+💻 Miscellaneous scripts
+🐍 Python 
+
+## Let's Connect!
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCSumP9z5Rzquqih-jpusTOQ?style=for-the-badge)](https://www.youtube.com/@0xd4y)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SegevEliezer/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/0xd4y)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:0xd4yWriteups@gmail.com)
