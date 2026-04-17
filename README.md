@@ -17,7 +17,7 @@ I create YouTube videos and have my own website to develop the technical skills 
 ⭐ Penetration testing tools<br>
 ✍️ Writeups<br>
 💻 Miscellaneous scripts<br>
-🐍 Python (7+ years experience)
+🐍 Python (10+ years experience)
 
 ## Let's Connect!
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCSumP9z5Rzquqih-jpusTOQ?style=for-the-badge)](https://www.youtube.com/@0xd4y)<br>
