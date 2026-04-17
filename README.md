@@ -7,8 +7,8 @@ I create YouTube videos and have my own website to develop the technical skills 
 
 👉 https://0xd4y.com 👈
 
-🤵 Penetration tester and security engineer<br>
-♟️ Chess player with over 15 years of competitive experience (2100+ USCF)<br>
+🤵 Solutions Architect and Penetration tester<br>
+♟️ Chess player and national bronze medalist (2019)<br>
 🗣️ Language-learning hobbyist<br>
 🤝 Team player
 
